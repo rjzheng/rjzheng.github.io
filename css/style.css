@@ -58,15 +58,15 @@ img {
 /** Logo **/
 #header .logo {
 	float: left;
-	margin-right: 20px;
+	margin-right: 0px;
 }
 #header .logo a {
 	background: url(../images/logo1.png) no-repeat center top;
-	color: #000;
+	color: #000000;
 	display: block;
-	font: 15px/30px 'Play';
-	height: 200px;
-	width: 200px;
+	font: 15px/40px 'Play';
+	height: 80px;
+	width: 115px;
 	padding-top: 68px;
 	text-decoration: none;
 	text-transform: uppercase;
