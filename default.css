@@ -149,9 +149,9 @@ input, textarea, select {
 
 #banner {
 	width: 800px;
-	height: 400px;
+	height: 350px;
 	margin: 0 auto;
-	padding: 0 0 0 10px
+	padding: 10px 0 0 10px
 }
 
 #logo {
