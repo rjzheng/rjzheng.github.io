@@ -32,13 +32,13 @@ h2 {
 
 h3{
 	margin: 20px 0 0 0;
-	font-size: 16px;
+	font-size: 20px;
 }
 
 p, ul, ol, li {
 	margin: 0 0 5px 0;
 	text-align: justify;
-	line-height: 15px;
+	line-height: 18px;
 	font-size: 14px;
 }
 
@@ -147,13 +147,13 @@ input, textarea, select {
 
 /** LOGO */
 
-#banner {
-	width: 700px;
-	height: 240px;
+/*#banner {
+	width: 800px;
+	height: 400px;
 	margin: 0 auto;
 	padding: 10px 0 0 0;
-	background: #BCE03E url(images/title_pic.jpg) no-repeat left top;
-}
+	background: #BCE03E 
+}*/
 
 #logo {
 	width: 820px;
@@ -293,6 +293,7 @@ input, textarea, select {
 	min-height: 64px;
 	padding: 0;
 	font-size: 10px;
+	background-color: #242424;
 }
 
 html>body #footer {
@@ -307,7 +308,6 @@ html>body #footer {
 	padding-top: 10px;
 	padding-left: 30px;
 	text-align: center;
-	color: #999999;
 }
 
 #legal a {
