@@ -49,16 +49,16 @@ p, ul, ol, li {
 
 
 a:link {
-	color: #48ACDE;
+	color: #FFFFFF;
 }
 
 a:hover, a:active {
 	text-decoration: none;
-	color: #48ACDE;
+	color: #FFFFFF;
 }
 
 a:visited {
-	color: #48ACDE;
+	color: #FFFFFF;
 }
 
 img {
